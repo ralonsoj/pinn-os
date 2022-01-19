@@ -694,7 +694,7 @@
             "description":  "manjaro-xfce-rpi4 16.0 for RPi4",
             "release_date": "2020-04-03",
             "supported_models": [
-                "Pi 4 Model B Rev"
+                "Pi 4"
             ],
             "supports_usb_boot": false,
             "supports_usb_root": true,
