@@ -20,6 +20,10 @@
 		{
 			"name" : "Legacy",
 			"url"  : "http://raw.githubusercontent.com/procount/pinn-os/master/os/os_oldstable.json"
+		},
+		{
+			"name" : "ralonsoj",
+			"url"  : "http://raw.githubusercontent.com/ralonsoj/pinn-manjaro-os/main/os_manjaro.json"
 		}
 	]
 }
